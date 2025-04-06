@@ -11,11 +11,11 @@ def get_video_fps_and_frames(video_path):
 
 def decide_sampling_strategy(duration_sec):
     if duration_sec < 10:
-        return 10
-    elif duration_sec < 20:
         return 20
+    elif duration_sec < 20:
+        return 30
     else:
-        return 40
+        return 45
 
 def extract_frames(video_path, max_frames=10, skip=10, resize=(224, 224)):
     cap = cv2.VideoCapture(video_path)
