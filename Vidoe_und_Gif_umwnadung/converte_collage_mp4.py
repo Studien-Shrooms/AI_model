@@ -46,14 +46,14 @@ def combine_frames_horizontally(frames, spacing=5):
     return collage
 
 def create_video_collage(video_path, output_path="collage.png"):
-    print(f"🎬 Lade Video: {video_path}")
+    print(f"Lade Video: {video_path}")
     fps, total_frames = get_video_fps_and_frames(video_path)
     duration_sec = total_frames / fps
-    print(f"📊 Video FPS: {fps}, Dauer: {duration_sec:.2f} Sekunden")
+    print(f"Video FPS: {fps}, Dauer: {duration_sec:.2f} Sekunden")
 
     target_frame_count = decide_sampling_strategy(duration_sec)
     skip = max(int(total_frames / target_frame_count), 1)
-    print(f"🎯 Extrahiere {target_frame_count} Frames (alle {skip} Frames)")
+    print(f"Extrahiere {target_frame_count} Frames (alle {skip} Frames)")
 
     frames = extract_frames(video_path, max_frames=target_frame_count, skip=skip)
 
@@ -62,7 +62,7 @@ def create_video_collage(video_path, output_path="collage.png"):
 
     collage = combine_frames_horizontally(frames)
     collage.save(output_path)
-    print(f"✅ Collage gespeichert unter: {output_path}")
+    print(f"Collage gespeichert unter: {output_path}")
 
 # === MAIN: Einfach hier deinen Pfad anpassen ===
 if __name__ == "__main__":
