@@ -1,0 +1,2571 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Alles_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Alles"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Alltag_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Alltag"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Apfel_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Apfel"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Baum_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Baum"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Bitte_wunsch_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "Bitte",
+      "Bitte_wunsch",
+      "Bitte?"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Bitte_Antwort_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "bitte"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Chance_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Chance"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Chef_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Chef"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Du__collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "du"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Freund Freundin(fest)_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "fester Freund/Freundin"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Hallo_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Hallo"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Ich_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "ich"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Ja_v1_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "ja"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Ja_v2_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "ja"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Kinder_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Kinder"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Lehre_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Lehre"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Lehrer_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Lehrer/Lehrerin"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Liebe_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Liebe"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Machen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "machen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Passen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "passen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Pause_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Pause"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Problem_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Problem"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Quatsch_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Quatsch"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Spa_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Spaß"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Tag_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Tag"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Wieviel Uhr ist es jetzt_frage_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Wieviel Uhr ist es jetzt?"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Youtoube_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Youtoube"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Zeit_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Zeit"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/alle_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "alle"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/anders anderer_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "anderer"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/arbeiten_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "arbeiten"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/auf etwas abfahren_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "auf etwas abfahren"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/aufhren zu reden_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "aufhören zu reden"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ausdenken_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "ausdenken"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/aussehen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "aussehen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bald_Zeilich_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "bald"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bei_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "bei"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/besprechen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "besprechen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bitte_hoeflich_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "bitte"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bringen (du-mir)_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "bringen",
+      "bringst"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/cool_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "cool"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/da sein_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "da sein"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/damit will ich nichts zu tun haben_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "damit will ich nichts zu tun haben"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/danke_hflich_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "danke",
+      "Danke!"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/denken_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "denken"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/du_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "du"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/eine Chance nutzen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "eine Chance nutzen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/einkaufen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "einkaufen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/er_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "er"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/erfinden_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "erfinden"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/essen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "essen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/fertig_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "fertig"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/finden_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "finden"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/fragen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "fragen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/freund_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "freund"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/gehen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "gehen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/genau_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "genau"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/genug_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "genug"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/gut miteinander klarkommen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "gut miteinander klarkommen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/gut_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "gut"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/haben_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "haben"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/heute_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "heute"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/hren_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "hören"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/idee_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "idee"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/immer_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "immer"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/insgesamt ganz vollstndig gesamt_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "insgesamt",
+      "ganz",
+      "vollständig",
+      "gesamt"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/interessant_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "interessant"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/jeder_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "jeder"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/jemandem etwas sagen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "jemandem etwas sagen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/kann nicht_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "kann nicht"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/kaufen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "kaufen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/keine_Chance_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "keine Chance"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/klar_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "klar"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/knnen_kann_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "können",
+      "kann"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/kommen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "kommen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/laufen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "laufen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/lernen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "lernen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/lieb_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "lieb"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/lieben_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "lieben"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/links daneben_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "links daneben"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/links_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "links"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/manchmal_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "manchmal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/mde_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "müde"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/mein_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "mein"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/morgen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "morgen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nachdenken_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "nachdenken"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nein_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "nein"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/neu_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "neu"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/neugierig_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "neugierig"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nicht_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "nicht"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nie_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "nie"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nichthaben_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "nicht haben"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/noch nicht_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "noch nicht"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/noch_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "noch"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nochmal_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "nochmal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/oben_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "oben"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/oder_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "oder"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/offen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "offen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ohne_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "ohne"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/pltzlich_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "pöltzlich"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/qualitt_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "qualität"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/rechts_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "rechts"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/rennen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "rennen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ruhe_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "Ruhe"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ruhig_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "ruhig"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/schlecht_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "schlecht"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/schn_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "schön"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sehen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "sehen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sich selbst nicht im Klaren sein sich selbst nicht entscheiden knnen nicht so recht wissen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "sich selbst nicht im Klaren sein",
+      "sich selbst nicht entscheiden können",
+      "nicht so recht wissen"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sich streiten und dabei gegenseitig unklare Sachen an den Kopf werfen_blablabla_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "sich streiten und dabei gegenseitig unklare Sachen an den Kopf werfen",
+      "blablabla wütend"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sprechen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "sprechen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/spter_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "später"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/tschss_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "tschüss"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/umdenken seine Meinung ndern_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "umdenken",
+      "seine Meinung ändern"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/und_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "und"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unednlich_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "unendlich"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unser_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "unser"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unten_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "unten"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unter_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "unter"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unterwegs_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "unterwegs"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/verabreden_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "verabreden"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/verkaufen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "verkaufen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/verstehen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "verstehen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/viel zu tun_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "viel zu tun"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/vorbei_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "vorbei"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wann_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "wann",
+      "wann?"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/warum_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "warum",
+      "warum?"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/was machen (frage)_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "was machen?"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/was_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "was",
+      "was?"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/weil_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "weil"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wie_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "wie",
+      "wie?"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wieviel_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "wieviel",
+      "wieviel?"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wollen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "wollen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zhlen_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "zählen"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wir_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "wir"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zuerst_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "zuerst"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zuhren_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "zuhören"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zurck_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": "zurück"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zurckbringen zurckschicken_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "zurückbringen",
+      "zurückschicken"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image",
+            "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zusammen_in einer Gruppe_collage.png"
+          },
+          {
+            "type": "text",
+            "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden.  Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."
+          }
+        ]
+      }
+    ],
+    "label": [
+      "zusammen",
+      "in einer Gruppe"
+    ]
+  }
+]
