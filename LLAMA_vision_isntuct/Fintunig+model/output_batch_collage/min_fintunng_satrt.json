@@ -1,0 +1,38 @@
+[
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Alles_collage.png",
+      "label": "Alles"
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Alltag_collage.png",
+      "label": "Alltag"
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Apfel_collage.png",
+      "label": "Apfel"
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Baum_collage.png",
+      "label": "Baum"
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Bitte_wunsch_collage.png",
+      "label": ["Bitte", "Bitte_wunsch", "Bitte?"]
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Bitte_Antwort_collage.png",
+      "label": "bitte"
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Chance_collage.png",
+      "label": "Chance"
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Chef_collage.png",
+      "label": "Chef"
+    },
+    {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Du__collage.png",
+      "label": "du"
+    }
+]
