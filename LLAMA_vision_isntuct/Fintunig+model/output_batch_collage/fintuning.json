@@ -1,0 +1,590 @@
+[
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Alles_collage.png",    
+    "label": "Alles"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Alltag_collage.png",
+    "label": "Alltag"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Apfel_collage.png",
+   "label": "Apfel"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Baum_collage.png",
+   "label": "Baum"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Bitte_wunsch_collage.png",
+   "label":  ["Bitte","Bitte_wunsch", "Bitte?"]
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Bitte_Antwort_collage.png",
+   "label": "bitte"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Chance_collage.png",
+   "label": "Chance"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Chef_collage.png",
+          "label": "Chef"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Du__collage.png",
+     "label": "du"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Freund Freundin(fest)_collage.png",
+     "label": "fester Freund/Freundin"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Hallo_collage.png",
+    "label": "Hallo"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Ich_collage.png",
+    "label": "ich"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Ja_v1_collage.png",
+        "label": "ja"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Ja_v2_collage.png",
+        "label": "ja"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Kinder_collage.png",
+    "label": "Kinder"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Lehre_collage.png",
+         "label": "Lehre"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Lehrer_collage.png",
+        "label": "Lehrer/Lehrerin"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Liebe_collage.png",
+        "label": "Liebe"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Machen_collage.png",
+      "label": "machen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Passen_collage.png",
+    "label": "passen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Pause_collage.png",
+     "label": "Pause"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Problem_collage.png",
+     "label": "Problem"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Quatsch_collage.png",
+         "label": "Quatsch"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Spa_collage.png",
+          "label": "Spaß"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Tag_collage.png",
+        "label": "Tag"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Wieviel Uhr ist es jetzt_frage_collage.png",
+         "label": "Wieviel Uhr ist es jetzt?"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Youtoube_collage.png",
+         "label": "Youtoube"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/Zeit_collage.png",
+     "label": "Zeit"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/alle_collage.png",
+              "label": "alle"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/anders anderer_collage.png",
+        "label": "anderer"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/arbeiten_collage.png",
+        
+    "label": "arbeiten"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/auf etwas abfahren_collage.png",
+      "label": "auf etwas abfahren"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/aufhren zu reden_collage.png",
+   "label": "aufhören zu reden"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ausdenken_collage.png",
+   "label": "ausdenken"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/aussehen_collage.png",
+    "label": "aussehen"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bald_Zeilich_collage.png",
+    "label": "bald"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bei_collage.png",
+    "label": "bei"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/besprechen_collage.png",
+        "label": "besprechen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bitte_hoeflich_collage.png",
+        "label": "bitte"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/bringen (du-mir)_collage.png",
+       "label": ["bringen","bringst"]
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/cool_collage.png",
+        "label": "cool"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/da sein_collage.png",
+     "label": "da sein"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/damit will ich nichts zu tun haben_collage.png",
+     "label": "damit will ich nichts zu tun haben"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/danke_hflich_collage.png",
+    "label": ["danke","Danke!"]
+  },
+  {
+  "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/denken_collage.png",
+       "label": "denken"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/du_collage.png",
+        "label": "du"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/eine Chance nutzen_collage.png",
+       "label": "eine Chance nutzen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/einkaufen_collage.png",
+        "label": "einkaufen"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/er_collage.png",
+     "label": "er"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/erfinden_collage.png",
+          "label": "erfinden"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/essen_collage.png",
+       "label": "essen"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/fertig_collage.png",
+      "label": "fertig"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/finden_collage.png",
+      "label": "finden"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/fragen_collage.png",
+    "label": "fragen"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/freund_collage.png",
+    "label": "freund"
+  },
+  {
+  "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/gehen_collage.png",
+  "label": "gehen"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/genau_collage.png",
+   "label": "genau"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/genug_collage.png",
+    "label": "genug"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/gut miteinander klarkommen_collage.png",
+    "label": "gut miteinander klarkommen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/gut_collage.png",
+         "label": "gut"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/haben_collage.png",
+        "label": "haben"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/heute_collage.png",
+          "label": "heute"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/hren_collage.png",
+         "label": "hören"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/idee_collage.png",
+         "label": "idee"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/immer_collage.png",
+         "label": "immer"
+  },
+  {
+       "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/insgesamt ganz vollstndig gesamt_collage.png",
+       "label": [
+      "insgesamt",
+      "ganz",
+      "vollständig",
+      "gesamt"
+    ]
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/interessant_collage.png",
+          "label": "interessant"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/jeder_collage.png",
+          "label": "jeder"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/jemandem etwas sagen_collage.png",
+          "label": "jemandem etwas sagen"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/kann nicht_collage.png",
+          "label": "kann nicht"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/kaufen_collage.png",
+     "label": "kaufen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/keine_Chance_collage.png",
+    "label": "keine Chance"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/klar_collage.png",
+     "label": "klar"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/knnen_kann_collage.png",
+        "label": ["können","kann"]
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/kommen_collage.png",
+         "label": "kommen"
+  },
+  {
+       "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/laufen_collage.png",
+        "label": "laufen"
+  },
+  {
+       "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/lernen_collage.png",
+        "label": "lernen"
+  },
+  {
+        "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/lieb_collage.png",
+        "label": "lieb"
+  },
+  {
+        "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/lieben_collage.png",
+    "label": "lieben"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/links daneben_collage.png",
+         "label": "links daneben"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/links_collage.png",
+     "label": "links"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/manchmal_collage.png",
+    "label": "manchmal"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/mde_collage.png",
+      "label": "müde"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/mein_collage.png",
+           "label": "mein"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/morgen_collage.png",
+          "label": "morgen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nachdenken_collage.png",
+     "label": "nachdenken"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nein_collage.png",
+       "label": "nein"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/neu_collage.png",
+     "label": "neu"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/neugierig_collage.png",
+    "label": "neugierig"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nicht_collage.png",
+       "label": "nicht"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nie_collage.png",
+    "label": "nie"
+  },
+  {
+        "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nichthaben_collage.png",
+          "label": "nicht haben"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/noch nicht_collage.png",
+    "label": "noch nicht"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/noch_collage.png",
+          "label": "noch"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/nochmal_collage.png",
+          "label": "nochmal"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/oben_collage.png",
+    "label": "oben"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/oder_collage.png",
+     "label": "oder"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/offen_collage.png",
+   "label": "offen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ohne_collage.png",
+     "label": "ohne"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/pltzlich_collage.png",
+   "label": "pöltzlich"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/qualitt_collage.png",
+        "label": "qualität"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/rechts_collage.png",
+     "label": "rechts"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/rennen_collage.png",
+     "label": "rennen"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ruhe_collage.png",
+    "label": "Ruhe"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/ruhig_collage.png",
+    "label": "ruhig"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/schlecht_collage.png",
+     "label": "schlecht"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/schn_collage.png",
+    "label": "schön"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sehen_collage.png",
+        "label": "sehen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sich selbst nicht im Klaren sein sich selbst nicht entscheiden knnen nicht so recht wissen_collage.png",
+    "label": [
+      "sich selbst nicht im Klaren sein",
+      "sich selbst nicht entscheiden können",
+      "nicht so recht wissen"
+    ]
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sich streiten und dabei gegenseitig unklare Sachen an den Kopf werfen_blablabla_collage.png",
+         "label": [
+      "sich streiten und dabei gegenseitig unklare Sachen an den Kopf werfen",
+      "blablabla wütend"
+    ]
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/sprechen_collage.png",
+        "label": "sprechen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/spter_collage.png",
+         "label": "später"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/tschss_collage.png",
+    "label": "tschüss"
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/umdenken seine Meinung ndern_collage.png",
+    "label": [      "umdenken",      "seine Meinung ändern"    ]
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/und_collage.png",
+        "label": "und"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unednlich_collage.png",
+         "label": "unendlich"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unser_collage.png",
+     "label": "unser"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unten_collage.png",
+    "label": "unten"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unter_collage.png",
+    "label": "unter"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/unterwegs_collage.png",
+         "label": "unterwegs"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/verabreden_collage.png",
+         "label": "verabreden"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/verkaufen_collage.png",
+          "label": "verkaufen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/verstehen_collage.png",
+          "label": "verstehen"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/viel zu tun_collage.png",
+         "label": "viel zu tun"
+  },
+  {
+       "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/vorbei_collage.png",
+          },
+           "label": "vorbei"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wann_collage.png",
+      
+    "label": [
+      "wann",
+      "wann?"
+    ]
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/warum_collage.png",
+          "label": [
+      "warum",
+      "warum?"
+    ]
+  },
+  {
+   "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/was machen (frage)_collage.png",
+          "label": "was machen?"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/was_collage.png",
+         "label": [
+      "was",
+      "was?"
+    ]
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/weil_collage.png",
+         "label": "weil"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wie_collage.png",
+         "label": [
+      "wie",
+      "wie?"
+    ]
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wieviel_collage.png",
+        "label": ["wieviel", "wieviel?"]
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wollen_collage.png",
+         "label": "wollen"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zhlen_collage.png",
+         "label": "zählen",
+        
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/wir_collage.png",
+      "label": "wir"
+  },
+  {
+         "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zuerst_collage.png",
+          "label": "zuerst"
+  },
+  {
+     "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zuhren_collage.png",
+         "label": "zuhören"
+  },
+  {
+      "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zurck_collage.png",
+         "label": "zurück"
+  },
+  {
+    "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zurckbringen zurckschicken_collage.png",
+        "label": ["zurückbringen","zurückschicken"]
+  },
+  {
+        "image": "/kaggle/input/collage-bilder-ft-dataset/output_batch_collage/zusammen_in einer Gruppe_collage.png",
+        "label": [ "zusammen","in einer Gruppe"]
+  }
+]
