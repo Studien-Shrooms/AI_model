@@ -1,26 +1,26 @@
 [
     {
-"image": "/kaggle/input/finetune/fintuntin_small/alle_collage.png",
-"label": "alle",
+        "image": "/kaggle/input/finetune/fintuntin_small/alle_collage.png",
+        "label": "alle"
     },
     {
-"image": "/kaggle/input/finetune/fintuntin_small/Alles_collage.png",
-"label": "Alles",
+        "image": "/kaggle/input/finetune/fintuntin_small/Alles_collage.png",
+        "label": "Alles"
     },
     {
-"image": "/kaggle/input/finetune/fintuntin_small/Alltag_collage.png",
-"label": "Alltag",
+        "image": "/kaggle/input/finetune/fintuntin_small/Alltag_collage.png",
+        "label": "Alltag"
     },
     {
-"image":"/kaggle/input/finetune/fintuntin_small/\fintuntin_small/aufhören zu reden_collage.png",
-"label": "aufhören zu reden",
+        "image": "/kaggle/input/finetune/fintuntin_small/fintuntin_small/aufhören zu reden_collage.png",
+        "label": "aufhören zu reden"
     },
     {
-"image": "/kaggle/input/finetune/fintuntin_small/aufhören_collage.png",
-"label": "aufhören",
+        "image": "/kaggle/input/finetune/fintuntin_small/aufhören_collage.png",
+        "label": "aufhören"
     },
     {
-"image": "/kaggle/input/finetune/fintuntin_small/fragen_collage.png",
-"label": "fragen",
+        "image": "/kaggle/input/finetune/fintuntin_small/fragen_collage.png",
+        "label": "fragen"
     }
 ]
