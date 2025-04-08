@@ -104,6 +104,7 @@ def create_collage_if_needed(input_path, temp_output_path="temp_collage.png"):
 
 # === Leere Funktion, die das Bild verarbeitet ===
 def benutze_bild(pfad):
+    
     print(f"[+] Verarbeite Bild: {pfad}")
     # <- Hier kannst du später deine Logik einbauen
     pass
