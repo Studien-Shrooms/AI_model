@@ -2,19 +2,6 @@ import os
 import mimetypes
 import cv2
 from PIL import Image
-import torch
-from transformers import MllamaForConditionalGeneration, AutoProcessor
-
-# === Modell initialisieren ===
-base_model = "/kaggle/input/llama-3.2-vision/transformers/11b-vision-instruct/1"
-processor = AutoProcessor.from_pretrained(base_model)
-model = MllamaForConditionalGeneration.from_pretrained(
-    base_model,
-    low_cpu_mem_usage=True,
-    torch_dtype=torch.float16,
-    device_map="auto",
-)
-torch.cuda.empty_cache()
 
 # === Hilfsfunktionen ===
 
@@ -116,25 +103,10 @@ def create_collage_if_needed(input_path, temp_output_path="temp_collage.png"):
     collage.save(temp_output_path)
     return temp_output_path, True
 
-# === Modellanbindung ===
+# === Platzhalter für Modellaufruf ===
 def ask_model_ai(image_path):
-    image = Image.open(image_path).resize((224, 224))
-
-    messages = [
-        {"role": "user", "content": [
-            {"type": "image"},
-            {"type": "text", "text": "Analysiere die Bildsequenz. Sie besteht aus mehreren Einzelbildern, die aus einem Video extrahiert wurden. Die Bilder zeigen die zeitliche Entwicklung einer Gebärde, angeordnet von links nach rechts. Gib den gesprochenen Inhalt in Hochdeutsch zurück."}
-        ]}
-    ]
-    input_text = processor.apply_chat_template(messages, add_generation_prompt=True)
-
-    inputs = processor(image, input_text, return_tensors="pt").to(model.device)
-    inputs = {k: v.to(dtype=torch.float16) if v.dtype == torch.float32 else v for k, v in inputs.items()}
-
-    with torch.no_grad():
-        output = model.generate(**inputs, max_new_tokens=60)
-
-    return processor.decode(output[0], skip_special_tokens=True)
+    print(f"[+] TEST: Bild erfolgreich übergeben an AI-Modell (Pfad: {image_path})")
+    return "Testantwort vom Fake-Modell"
 
 # === Hauptfunktion ===
 def handle_input_file(input_path, loesche_original=True):
@@ -145,7 +117,7 @@ def handle_input_file(input_path, loesche_original=True):
     try:
         bildpfad, temp_created = create_collage_if_needed(input_path)
         result = ask_model_ai(bildpfad)
-        print(f"[+] Modellantwort: {result}")
+        print(f"[✓] Antwort (fake): {result}")
 
     finally:
         if temp_created and os.path.exists(bildpfad):
@@ -160,6 +132,7 @@ def handle_input_file(input_path, loesche_original=True):
 
 # === Ausführung ===
 if __name__ == "__main__":
-    testdatei = "/kaggle/input/testingthemodel/test_file_DGL.mp4"
+    testdatei = ".\LLAMA_vision_isntuct\Fintunig+model\fintuntin_small\alle_collage.png"  # Hier input datei einüfgen
     antwort = handle_input_file(testdatei, loesche_original=True)
-    print(f"[✓] FINAL: {antwort}")
+    print(f"[✓] FINAL TEST: {antwort}")
+
